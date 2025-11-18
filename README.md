@@ -1,5 +1,5 @@
 # **ESP_8266 & MAX7219 CLOCK** 
-<img src="https://raw.githubusercontent.com/MRAK-AZ/ESP8266_clock/main/ESP8266_clock.jpg" width="600">
+![PROJECT_PHOTO](https://github.com/MRAK-AZ/ESP8266_clock/blob/main/ESP8266_clock.jpg)
 ## Описание
 Электронные часы на базе ESP_8266 и MAX7219.    
 Автоматически синхронизирует время при подключение к WiFiб
